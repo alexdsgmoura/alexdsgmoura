@@ -44,7 +44,7 @@ body main {
 .logo-int {
   width: 180px;
   height: 180px;
-  border: 3.5px solid white;
+  border: 5px solid white;
   border-radius: 50%;
   display: flex;
   justify-content: center;
